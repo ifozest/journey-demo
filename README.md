@@ -1,6 +1,6 @@
 # Three.js Journey
 
 
-## [Live](https://github.com/user/repo/blob/branch/other_file.md)
+## [Live](https://ifozest.github.io/journey-demo/dist/)
 
 just demo, no source
